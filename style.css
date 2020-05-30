@@ -1,0 +1,102 @@
+body{
+  
+  
+   background:img
+  
+}
+h1 {
+  color:White
+;
+  font-family: "Comic sans MS", serif;
+  font-size:50px;
+    text-align: center;
+}
+h2 {
+  color:#808000
+;
+  font-family: "Georgia", serif;
+  font-size:50px;
+    text-align: center;
+}
+h3 {
+  color:White;
+;
+  font-family: "Georgia", serif;
+  font-size:20px;
+    text-align: center;
+}
+nav ul li {
+  padding: 10px;
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+    
+}
+nav {
+ background:black;
+padding: 10px;
+
+  
+}
+nav ul li a {
+    text-decoration: none;
+    color: #a9a9a9;
+        font-size:17px;
+    
+}
+nav ul li :hover {
+    color: yellow;
+     font-size:18px;
+
+}
+img{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.info {
+  background-color: #373E50;
+  color: #F0FFFF;
+  border-style: solid;
+  border-top:100px;
+
+  border-color: #00000F;
+  border-radius: 5px;
+     font-size:24px;
+         text-align: center;
+}
+
+article{
+color:Black;  
+  
+  
+}
+.approfondimento{
+  border-radius: 5px;
+  padding:2px 0px 2px 0px;
+  background:#40B2D6;
+  color:black;
+  text-align: center;
+  text-decoration:none;
+}
+.approfondimento a{
+  color:Red;
+   text-decoration:none;
+}
+.approfondimento a:hover{
+    color: yellow;
+
+
+}
+footer{
+  font-size: 25px;
+  padding:2px 0px 2px 0px;
+  background: Green;
+  color:Yellow;
+  text-align: center;
+
+}
